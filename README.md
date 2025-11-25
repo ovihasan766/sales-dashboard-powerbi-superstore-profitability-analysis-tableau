@@ -1,5 +1,5 @@
 
-# Hi there, I'm [Abid Hasan Chowdhury Ovi] 👋
+# Hi there, I'm Abid Hasan Chowdhury Ovi
 
 ### Data Visualization & Business Intelligence Specialist
 
