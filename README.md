@@ -39,5 +39,5 @@ Here are a few projects that best demonstrate my analysis and visualization skil
 
 | Platform | Link |
 | :--- | :--- |
-| **LinkedIn** | [Connect with me on LinkedIn](https://linkedin.com/in/YourLinkedInProfile) |
-| **Email** | [Your.Email@example.com](mailto:Your.Email@example.com) |
+| **LinkedIn** | [Connect with me on LinkedIn](https://linkedin.com/in/abid-hasan-chowdhury-ovi) |
+| **Email** | [Your.Email@example.com](mailto:ovihasan766@gmail.com) |
