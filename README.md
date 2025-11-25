@@ -24,14 +24,14 @@ Here are a few projects that best demonstrate my analysis and visualization skil
 #### 1. Sales Performance Dashboard (Power BI)
 * **Description:** A comprehensive dashboard analyzing sales trends, profit margins, and regional performance. Built using **Power BI** to identify underperforming product categories and high-growth markets.
 * **Key Skills Demonstrated:** Storytelling, Geographic Analysis and Visualization.
-* [Link to Sales Dashboard GitHub Repo](https://app.powerbi.com/groups/me/reports/c340671f-0752-4429-b4f4-8f3d55a3e896?ctid=6b8550c5-1233-4e54-a17d-68b87ccd54c7&pbi_source=linkShare)
-* [Link to Live Power BI Embed/Service Report] (Optional - highly recommended)
+* [Link to Sales Dashboard GitHub Repo]()
+* [Link to Live Power BI Embed/Service Report] (https://app.powerbi.com/groups/me/reports/c340671f-0752-4429-b4f4-8f3d55a3e896?ctid=6b8550c5-1233-4e54-a17d-68b87ccd54c7&pbi_source=linkShare)
 
 #### 2. Superstore Migrated Sales Performances and Profitability Analysis
 * **Description:** This Tableau project analyzes the Superstore Migrated Sales Performance and Profitability dataset. The dashboard highlights sales and profit trends across categories, products, time periods, and states, helping users quickly spot top performers, loss-making areas, and key business insights. 
 * **Key Skills Demonstrated:** Tableau calculated fields, Storytelling,and Geographic Analysis.
-* [Link to E-Commerce GitHub Repo](https://github.com/YourUsername/ecommerce-inventory-analysis)
-* [Link to Live Tableau Public Dashboard] (Optional - highly recommended)
+* [Link to Superstore GitHub Repo](https://github.com/YourUsername/ecommerce-inventory-analysis)
+* [Link to Live Tableau Public Dashboard](https://public.tableau.com/app/profile/ovi.hasan/viz/SuperstoreSalesPerformanceandProfitabilityAnalysis/Dashboard1?publish=ye)
 
 ---
 
