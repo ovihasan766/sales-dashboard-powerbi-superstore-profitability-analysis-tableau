@@ -28,7 +28,7 @@ Here are a few projects that best demonstrate my analysis and visualization skil
 * [Link to Live Power BI Embed/Service Report](https://app.powerbi.com/groups/me/reports/c340671f-0752-4429-b4f4-8f3d55a3e896?ctid=6b8550c5-1233-4e54-a17d-68b87ccd54c7&pbi_source=linkShare)
 
 ## 📊 Sales Performance Dashboard (Power BI)
-![Sales Dashboard](https://github.com/your-username/your-repo-name/blob/main/PowerBIProject.png)
+![Sales Dashboard](https://github.com/your-username/your-repo-name/blob/main/power_bi_project.png)
 
 
 #### 2. Superstore Migrated Sales Performances and Profitability Analysis (Tableau Public)
