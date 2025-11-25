@@ -31,13 +31,13 @@ Here are a few projects that best demonstrate my analysis and visualization skil
 ![Sales Dashboard](https://github.com/ovihasan766/Abid-Hasan-Chowdhury-Ovi/blob/main/power_bi_project.png)
 
 
-#### 2. Superstore Migrated Sales Performances and Profitability Analysis (Tableau Public)
-* **Description:** This Tableau project analyzes the Superstore Migrated Sales Performance and Profitability dataset. The dashboard highlights sales and profit trends across categories, products, time periods, and states, helping users quickly spot top performers, loss-making areas, and key business insights. 
+#### 2. Superstore Sales Performances and Profitability Analysis (Tableau Public)
+* **Description:** This Tableau project analyzes the Superstore Sales Performance and Profitability dataset. The dashboard highlights sales and profit trends across categories, products, time periods, and states, helping users quickly spot top performers, loss-making areas, and key business insights. 
 * **Key Skills Demonstrated:** Tableau calculated fields, Storytelling,and Geographic Analysis.
 * [Link to Superstore GitHub Repo](https://github.com/ovihasan766/Abid-Hasan-Chowdhury-Ovi/blob/main/Portfolio%202.twb)
 * [Link to Live Tableau Public Dashboard](https://public.tableau.com/app/profile/ovi.hasan/viz/SuperstoreSalesPerformanceandProfitabilityAnalysis/Dashboard1?publish=ye)
 
-## 📈 Superstore Sales and Profitability Analysis (Tableau)
+## 📈 Superstore Sales Performance and Profitability Analysis (Tableau)
 ![Tableau Dashboard](https://github.com/ovihasan766/Abid-Hasan-Chowdhury-Ovi/blob/main/Tableau%20Project.jpeg)
 
 ---
