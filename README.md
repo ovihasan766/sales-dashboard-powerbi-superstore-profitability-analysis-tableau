@@ -34,7 +34,7 @@ Here are a few projects that best demonstrate my analysis and visualization skil
 
 
 ## 📊 Sales Performance Dashboard (Power BI)
-![Sales Dashboard](https://github.com/ovihasan766/Abid-Hasan-Chowdhury-Ovi/blob/main/power_bi_project.png)
+![Sales Dashboard](https://github.com/ovihasan766/Abid-Hasan-Chowdhury-Ovi/blob/main/PowerBI_Project/Power%20BI%20Project.png)
 
 
 #### 2. Superstore Sales Performances and Profitability Analysis (Tableau Public)
