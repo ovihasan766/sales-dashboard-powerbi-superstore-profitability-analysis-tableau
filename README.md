@@ -1,7 +1,7 @@
 
 ## 👋 About Me
-I’m Abid Hasan Chowdhury Ovi, an Aspiring Data Visualization & Business Intelligence Specialist from Dhaka, Bangladesh.  
-Currently pursuing my MBA with a focus on Accounting and Information Systems, I specialize in transforming raw data into actionable insights.  
+I’m Abid Hasan Chowdhury Ovi, an Aspiring Data Visualization & Business Intelligence Analyst from Dhaka, Bangladesh.  
+Currently a BBA graduate with a focus on Accounting and Information Systems, I specialize in transforming raw data into actionable insights.  
 My career goal is to help businesses make smarter decisions by building intuitive dashboards and applying advanced analytics using tools like Power BI and Tablea.
 
 ---
